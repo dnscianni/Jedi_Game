@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package edu.csupomona.cs.cs141.Assignment4;
+
+import Person;
+
+/**
+ * @author David Scianni
+ * 
+ */
+public class Jedi extends Person {
+
+	public Jedi() {
+
+	}
+
+	public void die() {
+
+	}
+
+	public void move() {
+
+	}
+
+	public boolean stab() {
+
+	}
+}

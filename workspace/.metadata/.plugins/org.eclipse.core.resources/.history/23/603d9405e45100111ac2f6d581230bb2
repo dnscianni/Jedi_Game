@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package edu.csupomona.cs.cs141.Assignment4;
+
+import Item;
+
+/**
+ * @author David Scianni
+ *
+ */
+public class InvincibilityPowerUp extends Item {
+	
+	private final int INVINCIBILITY_AMOUNT = 5;
+	
+	public InvincibilityPowerUp() {
+		
+	}
+	
+	public void activate() {
+		
+	}
+}
